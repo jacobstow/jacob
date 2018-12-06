@@ -314,6 +314,11 @@ button, html input[type="button"], input[type="reset"], input[type="submit"], a.
 	display: inline-block; /* preventing collapsing margins */
 	}
 
+.main .wpcf7-submit {
+	width: auto;
+	padding: 0.5em 2em;
+	}
+
 /* change cf7 messages/errors */
 div.wpcf7-response-output {
 	margin: 2em 0 1em;

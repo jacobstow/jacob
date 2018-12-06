@@ -1,0 +1,1347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"portfolio",
+				"portfolio_listings"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"port",
+				"portfolio_listings"
+			],
+			[
+				"the_t",
+				"the_title"
+			],
+			[
+				"the",
+				"the_content"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"table",
+				"table-caption"
+			],
+			[
+				"album",
+				"album_thumbs"
+			],
+			[
+				"fi",
+				"first_gallery_id"
+			],
+			[
+				"ga",
+				"gallery_thumb_id"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"wp_t",
+				"wp_title"
+			],
+			[
+				"im",
+				"image_nav"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"cat",
+				"category_name"
+			],
+			[
+				"en",
+				"enquiry_terms"
+			],
+			[
+				"f",
+				"formatform"
+			],
+			[
+				"company",
+				"company_list"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wp_r",
+				"wp_register_script"
+			],
+			[
+				"box",
+				"box1"
+			],
+			[
+				"exhib",
+				"exhibition_header"
+			],
+			[
+				"intro",
+				"introtext"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"footer",
+				"footer_tab"
+			],
+			[
+				"ha",
+				"half-columns-2"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"sub",
+				"sub-page-list"
+			],
+			[
+				"info",
+				"info_pages"
+			],
+			[
+				"bi",
+				"biggestHeight"
+			],
+			[
+				"do",
+				"download_feat"
+			],
+			[
+				"half",
+				"half-columns-2"
+			],
+			[
+				"page_hero_",
+				"page_hero_contact"
+			],
+			[
+				"page",
+				"page_hero"
+			],
+			[
+				"wp",
+				"wpcf7-form"
+			],
+			[
+				"front",
+				"front_sections_nav"
+			],
+			[
+				"gl",
+				"glossary_content"
+			],
+			[
+				"lo",
+				"logged-in"
+			],
+			[
+				"file",
+				"filesize"
+			],
+			[
+				"stast",
+				"statistic"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"header",
+				"header_search"
+			],
+			[
+				"inine",
+				"inline-block"
+			],
+			[
+				"h",
+				"min-height"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"delank",
+				"delank_output"
+			],
+			[
+				"c",
+				"currentpage"
+			],
+			[
+				"pro",
+				"product_term_id"
+			],
+			[
+				"sport",
+				"sport_played"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"button_",
+				"button_wrapper"
+			],
+			[
+				"col",
+				"column_1"
+			],
+			[
+				"searc",
+				"search-results"
+			],
+			[
+				"event_ticket_",
+				"event_ticket_free"
+			],
+			[
+				"button",
+				"button_link"
+			],
+			[
+				"for",
+				"front_intro"
+			],
+			[
+				"bu",
+				"button_link"
+			],
+			[
+				"content",
+				"contentwidth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "NOTES.txt",
+			"settings":
+			{
+				"buffer_size": 1290,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 8241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions/custom_post_types.php",
+			"settings":
+			{
+				"buffer_size": 5434,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 24132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 2573,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "front-page.php",
+			"settings":
+			{
+				"buffer_size": 5408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 1214,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 447,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page-contact.php",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "archive.php",
+			"settings":
+			{
+				"buffer_size": 379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "404.php",
+			"settings":
+			{
+				"buffer_size": 482,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "loop.php",
+			"settings":
+			{
+				"buffer_size": 1114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "archive-project.php",
+			"settings":
+			{
+				"buffer_size": 1587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "category.php",
+			"settings":
+			{
+				"buffer_size": 516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "taxonomy-portfolio_category.php",
+			"settings":
+			{
+				"buffer_size": 1425,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "single.php",
+			"settings":
+			{
+				"buffer_size": 1462,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "single-project.php",
+			"settings":
+			{
+				"buffer_size": 2773,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/functions/custom_post_types.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/footer.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob_OLD/footer.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/style.css",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob2/style.css",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/functions.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob2/functions.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob2/functions/custom_post_types.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/functions/custom_post_types.php",
+		"/Volumes/FREECOM HDD/ONLY/Judey Woo/dev/makerchildtheme/style.css",
+		"/Volumes/FREECOM HDD/ONLY/Judey Woo/dev/makerchildtheme/footer.php",
+		"/Volumes/FREECOM HDD/ONLY/Euro Taxis/Bookings/Backups/backup 010916/bookings_list_310816.xls",
+		"/Volumes/FREECOM HDD/ONLY/Judey Woo/dev/maker theme/maker/footer.php",
+		"/Volumes/FREECOM HDD/ONLY/Judey Woo/dev/files for live/.htaccess",
+		"/Users/Jake/Desktop/bits.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-config.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/comada/wp-content/themes/comada/functions.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/trichocare/wp-content/themes/trichocare/functions.php",
+		"/Applications/MAMP/htdocs/womeninsustainability/wp-content/themes/wins/functions.php",
+		"/Applications/MAMP/htdocs/oasistalk/wp-content/themes/oasistalk/functions.php",
+		"/Applications/MAMP/htdocs/innovation/wp-content/themes/innovation/functions.php",
+		"/Applications/MAMP/htdocs/stemworks-2016/wp-content/themes/stemworks/functions.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/linktoenergy/wp-content/themes/linktoenergy/functions.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/plugins/envira-album-image-captions.php",
+		"/Volumes/FREECOM HDD/ONLY/Futura/Colin Hawkins/dev/envira plugins/envira-albums/envira-albums.php",
+		"/Applications/MAMP/htdocs/stemworks-2016/wp-content/themes/stemworks/page_casestudies.php",
+		"/Applications/MAMP/htdocs/stemworks-2016/wp-content/themes/stemworks/front-page.php",
+		"/Applications/MAMP/htdocs/innovation/wp-content/themes/innovation/page_claims.php",
+		"/Applications/MAMP/htdocs/innovation/wp-content/themes/innovation/page_sublist.php",
+		"/Applications/MAMP/htdocs/innovation/wp-content/themes/innovation/front-page.php",
+		"/Applications/MAMP/htdocs/paulblakemore/wp-content/themes/paulblakemore/front-page.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/front-page.php",
+		"/Applications/MAMP/htdocs/anna-2015/wp-content/themes/anna/front-page.php",
+		"/Applications/MAMP/htdocs/anna-2015/wp-content/themes/anna/single-project.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/template-demo.php",
+		"/Applications/MAMP/htdocs/BWB_hand/css/style.css",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/js/lib/viljamis-ResponsiveSlides.js-1200795/demo/demo.css",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/js/lib/viljamis-ResponsiveSlides.js-1200795/demo/demo.html",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/js/lib/viljamis-ResponsiveSlides.js-1200795/README.md",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/js/lib/responsiveslides.min.js",
+		"/Applications/MAMP/htdocs/bmqresponsive/wp-content/themes/BMQ/functions.php",
+		"/Applications/MAMP/htdocs/anna-2015/wp-content/themes/anna/css/main.css",
+		"/Applications/MAMP/htdocs/anna-2015/wp-content/themes/anna/js/main.js",
+		"/Applications/MAMP/htdocs/anna-2015/wp-content/themes/anna/style.css",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/taxonomy-project_categories.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/js/lib/tinynav.js",
+		"/Volumes/FREECOM HDD/ONLY/Futura/Colin Hawkins/making/CHlogo_sq.svg",
+		"/Volumes/FREECOM HDD/ONLY/Futura/Colin Hawkins/making/Artboard 1.svg",
+		"/Volumes/FREECOM HDD/ONLY/Futura/Colin Hawkins/making/CHlogo.svg",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/anna/css/main.css",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/img/logo.svg",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/initializr/404.html",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/html5blank-stable/functions.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/html5blank-stable/header.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/anna/functions.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/pagination.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/search.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/functions/options_page.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/tag.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/category.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/jaketest/README.md",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/README.md",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/loop.php",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/CHANGELOG.md",
+		"/Volumes/FREECOM HDD/ONLY/Yoyo foods/website2016-edits/theme from Envato/themeforest-6932121-food-truck-restaurant-20-styles-wp-theme/themes/burgertheme/style.css",
+		"/Applications/MAMP/htdocs/colinhawkins/wp-content/themes/colinhawkins/style.css",
+		"/Volumes/FREECOM HDD/ONLY/Nighthawks/dev/live files 211013/nighthawks/wp-content/themes/nighthawks/NOTES.txt",
+		"/Volumes/FREECOM HDD/ONLY/Thrive/dev/backups/010716/wp-content/plugins/responsive-slider/responsive-slider.php",
+		"/Volumes/FREECOM HDD/ONLY/Thrive/dev/backups/080416/wp-content/plugins/responsive-slider/responsive-slider.php",
+		"/Applications/MAMP/htdocs/window-menu/wp-content/themes/window/js/vendor/Slides-SlidesJS-3/README.textile",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/sidebar.php",
+		"/Applications/MAMP/htdocs/learningphp/notes.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/single-project.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/taxonomy-portfolio_category.php",
+		"/Applications/MAMP/htdocs/window-menu/wp-content/themes/window/style.css",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/functions/hide_adminbar.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/functions/load_holding_page.php",
+		"/Volumes/FREECOM HDD/ONLY/John Harverson/live dev/files for live/wp-config.php",
+		"/Volumes/FREECOM HDD/ONLY/John Harverson/dev 2/files for dev/wp-config.php",
+		"/Volumes/FREECOM HDD/ONLY/Synnove/dev/site files - old 221215/index.php",
+		"/Applications/MAMP/htdocs/jacobstow/wp-content/themes/jacob/css/font-awesome/css/font-awesome.css",
+		"/Applications/MAMP/htdocs/paulblakemore/wp-content/themes/paulblakemore/functions.php",
+		"/Volumes/FREECOM HDD/ONLY/Synnove/files for live/wp-config.php",
+		"/Applications/MAMP/htdocs/innovation/wp-content/themes/innovation/header.php",
+		"/Applications/MAMP/htdocs/innovation/wp-content/themes/innovation/home.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/photoboy_hand alt/photoboy/index.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/photoboy_hand/index.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/photoboy_hand alt/index.php",
+		"/Volumes/FREECOM HDD/ONLY/Link To Energy/dev/dev site files/temp/wp-config.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/templates/page.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/templates/page--project-area.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/templates/page--front.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/css/style.css",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/css/layout.css",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/templates/html.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/templates/comment.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/templates/block.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/template.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/yourgreenfuture/sites/all/themes/YGF/includes/footer.inc",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/templates/node.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/templates/search-result.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/wessexca/sites/all/themes/wessexca/templates/search-results.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/yourgreenfuture/sites/all/themes/YGF/templates/page.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/yourgreenfuture/sites/all/themes/YGF/templates/html.tpl.php",
+		"/Volumes/FREECOM HDD/ONLY/_htdocs ONLY/yourgreenfuture/sites/all/themes/YGF/template.php",
+		"/Applications/MAMP/htdocs/LBYD-survey/results-txt.php",
+		"/Applications/MAMP/htdocs/LBYD-survey/results-dev.php",
+		"/Applications/MAMP/htdocs/STEM-data/cyber-security V1/page-fashion-survey.php",
+		"/Applications/MAMP/htdocs/STEM-data/cyber-security/page-fashion.php",
+		"/Volumes/FREECOM HDD/ONLY/Link To Energy/dev/system changes/changed files/linktoenergy-jjsys.sublime-project",
+		"/private/etc/hosts",
+		"/Volumes/FREECOM HDD/ONLY/Link To Energy/dev/system changes/changed files/installer.php",
+		"/Users/Jake/Documents/DEVELOPMENT/jQuery/jquery-bits.js",
+		"/Volumes/FREECOM HDD/ONLY/Futura/Innovation/dev/files for dev/wp-config.php",
+		"/Volumes/FREECOM HDD/ONLY/Futura/Innovation/dev/files for live/wp-config.php",
+		"/Volumes/FREECOM HDD/ONLY/Futura/Innovation/dev/files for live/.htaccess",
+		"/Applications/MAMP/htdocs/innovation/wp-content/themes/innovation/page_test.php",
+		"/Applications/MAMP/htdocs/trichocare/wp-content/themes/trichocare/js/main.js",
+		"/Applications/MAMP/htdocs/trichocare/wp-content/themes/trichocare/footer.php",
+		"/Volumes/FREECOM HDD/ONLY/Futura/Innovation/dev/holding.html",
+		"/Applications/MAMP/htdocs/innovation/wp-content/themes/innovation/style.css",
+		"/Applications/MAMP/htdocs/linktoenergy/wp-content/themes/linktoenergy/page_sublist.php",
+		"/Applications/MAMP/htdocs/linktoenergy/wp-content/themes/linktoenergy/page_casestudies.php",
+		"/Applications/MAMP/htdocs/womeninsustainability/wp-content/themes/wins/page_whoweare.php",
+		"/Applications/MAMP/htdocs/womeninsustainability/wp-content/themes/wins/page_groups.php",
+		"/Applications/MAMP/htdocs/innovation/wp-content/themes/innovation/innovation.sublime-project",
+		"/Applications/MAMP/htdocs/linktoenergy/wp-content/themes/linktoenergy/header.php",
+		"/Volumes/FREECOM HDD/ONLY/Link To Energy/dev/system changes/1/header.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"<project>,<open folders>",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"border-r",
+			"const",
+			"type-post",
+			"h_",
+			"feature",
+			"h_intro",
+			"max",
+			"article",
+			"766",
+			"upper",
+			"image_info",
+			"gallery-sidebar",
+			"gallery_sidebar",
+			"_nav",
+			"clear",
+			"gallery",
+			"header",
+			"gallery",
+			"fa",
+			"family",
+			"edit_post_link",
+			"gallery",
+			"edit",
+			"size",
+			"wp_nav_menu",
+			"html5blank_nav",
+			"widget",
+			"sidebar",
+			"__",
+			"html5blank",
+			"comment",
+			"img",
+			"headshots",
+			"wp_list_categories",
+			"html5blank_header_scripts",
+			"html5blank_nav",
+			"width",
+			"add_theme_support",
+			"project",
+			"Project",
+			"Projects",
+			"projects",
+			"button",
+			"width",
+			"enqui",
+			"searchresult",
+			"content",
+			"sidebox",
+			"contact_nav",
+			"conditional",
+			"ref",
+			"highlight",
+			"Status",
+			"status",
+			"Update",
+			"view",
+			"display_re",
+			"$",
+			"legal",
+			"details",
+			"logo",
+			"intro",
+			"logo",
+			"full",
+			"intro",
+			"project",
+			"projects",
+			"intro",
+			"nav",
+			"pdf",
+			"activity",
+			"blue",
+			"background-po",
+			"chevr",
+			"chev",
+			"blue",
+			"fa",
+			"slide",
+			"footer",
+			"contact",
+			"sub",
+			"page_hero",
+			"hero",
+			"hero_nav",
+			"chevron",
+			"feat",
+			"background-p",
+			"chev",
+			"contact_link",
+			"footer",
+			"footer_tab",
+			"footer",
+			"chevron",
+			"info",
+			"sub",
+			"visually",
+			"contact",
+			"page_hero",
+			"blue",
+			"glos",
+			"input",
+			"gloss",
+			"footer",
+			"glossa",
+			":hover",
+			"blue",
+			"footer",
+			"button",
+			"hero",
+			"fa",
+			"content",
+			"select",
+			"button_back",
+			"back",
+			"page_in",
+			"input",
+			"slide-title",
+			"OTW",
+			"social_sad",
+			"social_happy",
+			"social_notlike",
+			"social_like",
+			"social_dob",
+			"fashion_age",
+			"family_name",
+			"first_name",
+			"would_like",
+			"fav_shop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"constrained",
+			"gallery",
+			"burger",
+			"Burger",
+			"Burgers",
+			"burgers",
+			"artwork",
+			"social_admire",
+			"social_makes_sad",
+			"social_happiest",
+			"social_happy",
+			"social_food_dislike",
+			"social_pet_name",
+			"social_age",
+			"social_name",
+			"fashion_to_buy",
+			"fashion_look_bad",
+			"fashion_shoe_size",
+			"fashion_fav_colour",
+			"fashion_postcode",
+			"fashion_age",
+			"fashion_nickname",
+			"'games_most_played",
+			"games_most_played",
+			"games_fav_genre",
+			"games_fav_game",
+			"games_town",
+			"games_country",
+			"games_name",
+			">",
+			"<",
+			"\"",
+			" ",
+			"\"",
+			"'",
+			"\"",
+			"trips2014-15photos",
+			"social_sad",
+			"social_happy",
+			"'social_notlike'",
+			"'social_like'",
+			"social_notlike",
+			"social_like",
+			"social_dob",
+			"would_like",
+			"fav_shop",
+			"shoe_size",
+			"fav_colour",
+			"games_address",
+			"fav_game",
+			"games_dob",
+			"trichocare",
+			"-",
+			"href='#'",
+			"",
+			"-"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "NOTES.txt",
+					"settings":
+					{
+						"buffer_size": 1290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1151,
+								1151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "functions.php",
+					"settings":
+					{
+						"buffer_size": 8241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "functions/custom_post_types.php",
+					"settings":
+					{
+						"buffer_size": 5434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 24132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10423.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "header.php",
+					"settings":
+					{
+						"buffer_size": 2573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "front-page.php",
+					"settings":
+					{
+						"buffer_size": 5408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "page.php",
+					"settings":
+					{
+						"buffer_size": 1214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								916,
+								916
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "page-contact.php",
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								599,
+								599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "archive.php",
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "404.php",
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "loop.php",
+					"settings":
+					{
+						"buffer_size": 1114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "archive-project.php",
+					"settings":
+					{
+						"buffer_size": 1587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 7.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "category.php",
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "taxonomy-portfolio_category.php",
+					"settings":
+					{
+						"buffer_size": 1425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								979,
+								979
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "single.php",
+					"settings":
+					{
+						"buffer_size": 1462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "single-project.php",
+					"settings":
+					{
+						"buffer_size": 2773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 261.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

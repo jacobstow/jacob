@@ -375,12 +375,14 @@ span.wpcf7-not-valid-tip {
 	margin: 0 -2em 3em -2em;
 	}
 /* needed for form_header above */
-body.project-appraisal .main .content {
+body.project-appraisal .main .content,
+body.project-appraisal-shop .main .content {
 	overflow: visible;
 	}
 /* more spacing */
 #wpcf7-f186-p182-o1 .wpcf7-form-control-wrap,
-#wpcf7-f191-p189-o1 .wpcf7-form-control-wrap {
+#wpcf7-f191-p189-o1 .wpcf7-form-control-wrap,
+#wpcf7-f778-p779-o1 .wpcf7-form-control-wrap {
 	margin-bottom: 1.5em;
 	display: block;
 	}

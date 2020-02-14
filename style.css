@@ -437,20 +437,25 @@ body.project-appraisal-shop .main .content {
 	display: none;
 	}
 
+body.maintenance .wpcf7-form,
 body.maintenance-plans .wpcf7-form {
 	max-width: 500px;
 	margin: 0 auto;
 	}
+body.maintenance .wpcf7,
 body.maintenance-plans .wpcf7 {
 	background: #f3f3f3;
 	padding: 1em;
 	}
+body.maintenance .wpcf7 input,
 body.maintenance-plans .wpcf7 input {
 	
 	}
+body.maintenance .wpcf7 select,
 body.maintenance-plans .wpcf7 select {
 	margin-top: 1em;
 	}
+body.maintenance .wpcf7 input.button,
 body.maintenance-plans .wpcf7 input.button {
 	margin-left: 20px;
 	max-width: 160px;
